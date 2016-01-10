@@ -1,0 +1,22 @@
+{
+  "name": "handlebars-clientside",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "davidtadams <adams.t.david@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "~4.0.5"
+  }
+}
